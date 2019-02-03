@@ -1,0 +1,22 @@
+{
+  "name": "rn-picker",
+  "version": "1.0.0",
+  "description": "react-native picker for both android and ios, considering there pixel ratio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "rn-picker"
+  },
+  "keywords": [
+    "npm",
+    "rn-picker"
+  ],
+  "author": "Suryakant Tyagi <suryakant28.st@gmail.com> (http://none.com)",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.7.0"
+  }
+}
